@@ -1,0 +1,14 @@
+openai
+pdfminer.six
+python-dotenv
+numpy
+chromadb
+nltk
+sentence_transformers
+elasticsearch7
+PyMuPDF
+matplotlib
+torchvision
+transformers
+timm
+
