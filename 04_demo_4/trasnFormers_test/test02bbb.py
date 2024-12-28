@@ -11,12 +11,12 @@ model_name_or_path = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
 model: LlamaForCausalLM = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
-print(type(model))
+# print(type(model))
 model.eval()
 
 text = "Hello World"
-input = tokenizer.encode(text, return_tensors="pt")
-print(input)
+input = tokenizer(text, return_tensors="pt")
+print(f"input --> {input}")
 # {'input_ids': tensor([[    1, 15043,  2787]]), 'attention_mask': tensor([[1, 1, 1]])}
 
 with torch.no_grad():
