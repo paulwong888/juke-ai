@@ -3,12 +3,12 @@ from a02_my_model import MyModel
 from transformers import BertModel, AutoTokenizer
 
 class MyModelRunner():
-    def __init__(self, model_path):
+    def __init__(self, state_dict_path):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.names = ["正向评价", "负向评价"]
         self.my_model = MyModel().to(self.device)
         # print(self.my_model)
-        self.my_model.load_state_dict(torch.load(model_path, map_location=self.device))
+        self.my_model.load_state_dict(torch.load(state_dict_path, map_location=self.device))
         self.tokenizer = AutoTokenizer.from_pretrained(MyModel.model_name)
         self.my_model.eval()
 
