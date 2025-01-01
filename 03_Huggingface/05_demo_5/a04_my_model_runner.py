@@ -24,7 +24,7 @@ class MyModelRunner():
         return self.names[output]
     
 if __name__ == "__main__":
-    my_model_runner = MyModelRunner("05_demo_5/params/2_bert.pth")
+    my_model_runner = MyModelRunner("03_Huggingface/05_demo_5/params/9_bert.pth")
     while True:
         input_text = input("请输入测试数据(输入'q'退出): ")
         if input_text == "q":
