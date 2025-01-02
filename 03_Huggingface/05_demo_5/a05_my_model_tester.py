@@ -23,7 +23,7 @@ class MyModelTester():
         logger.info("len(my_data_loader.sampler): %s", len(my_data_loader.sampler))
         with torch.no_grad():
             for i, (input, target) in enumerate(my_data_loader):
-                output: Tensor = my_model.forward(input)
+                output = my_model.forward(input)
                 logger.info(
                     "output-size: %s, target-size: %s", 
                     output.shape, target.shape
