@@ -8,7 +8,7 @@ class MyDataset(Dataset):
     def __init__(self, split: str):
         super(MyDataset, self).__init__()
         self.tokenizer = AutoTokenizer.from_pretrained(MyModel.model_name)
-        self.dataset = load_from_disk("03_Huggingface/04_demo_4/data/ChnSentiCorp")[split]
+        self.dataset = load_from_disk("03_Huggingface/data/ChnSentiCorp")[split]
 
     def __len__(self):
         return len(self.dataset)

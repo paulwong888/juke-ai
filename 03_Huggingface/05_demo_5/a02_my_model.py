@@ -5,7 +5,7 @@ from transformers import BertModel
 class MyModel(nn.Module):
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model_name = r"03_Huggingface/04_demo_4/trasnFormers_test/model/bert-base-chinese/models--bert-base-chinese/snapshots/c30a6ed22ab4564dc1e3b2ecbf6e766b0611a33f"
+    model_name = r"03_Huggingface/data/model/bert-base-chinese/models--bert-base-chinese/snapshots/c30a6ed22ab4564dc1e3b2ecbf6e766b0611a33f"
     model = BertModel.from_pretrained(model_name).to(device)
 
     def __init__(self):
