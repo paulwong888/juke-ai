@@ -11,31 +11,31 @@ class MyTrainer():
         logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
         self.logger = logging.getLogger(__name__)
 
-    def build_data_loader(self, data_set: MyDataset, batch_size: int):
-        return DataLoader(
-            dataset=data_set,
-            batch_size=batch_size,
-            shuffle=True,
-            #舍弃最后一个批次的数据，防止形状出错
-            drop_last=True,
-            collate_fn=lambda x: data_set.collate_func(x)
-        )
+    # def build_data_loader(self, data_set: MyDataset, batch_size: int):
+    #     return DataLoader(
+    #         dataset=data_set,
+    #         batch_size=batch_size,
+    #         shuffle=True,
+    #         #舍弃最后一个批次的数据，防止形状出错
+    #         drop_last=True,
+    #         collate_fn=lambda x: data_set.collate_func(x)
+    #     )
 
     def train(self):
         logger = self.logger
         model = MyModel().to(MyModel.device)
 
         epochs = 10
-        batch_size = 500
+        batch_size = 700
 
         loss_func = nn.CrossEntropyLoss()
         optimizer = AdamW(model.parameters())
 
         train_data_set = MyDataset("train")
-        train_data_loader = self.build_data_loader(train_data_set, batch_size)
+        train_data_loader = train_data_set.build_data_loader(batch_size)
 
         val_data_set = MyDataset("validation")
-        val_data_loader = self.build_data_loader(val_data_set, batch_size)
+        val_data_loader = val_data_set.build_data_loader(batch_size)
 
         #初始化最佳验证准确率
         best_val_acc = 0.0

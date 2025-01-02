@@ -1,5 +1,5 @@
 import torch
-from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 from datasets import load_from_disk
 from transformers import AutoTokenizer
 from a02_my_model import MyModel
@@ -34,6 +34,18 @@ class MyDataset(Dataset):
         
         target = torch.LongTensor(target).to(MyModel.device)
         return (input_coded, target)
+    
+    
+
+    def build_data_loader(self, batch_size: int):
+        return DataLoader(
+            dataset=self,
+            batch_size=batch_size,
+            shuffle=True,
+            #舍弃最后一个批次的数据，防止形状出错
+            drop_last=True,
+            collate_fn=lambda x: self.collate_func(x)
+        )
 
     
 if __name__ == "__main__":
