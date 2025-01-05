@@ -1,13 +1,17 @@
 import torch
+from a00_constant import bert_base_chinese_model_path
 from torch.utils.data import Dataset, DataLoader
 from datasets import load_from_disk
 from transformers import AutoTokenizer
-from a02_my_model import MyModel
 
 class MyDataset(Dataset):
+
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model_name = bert_base_chinese_model_path
+
     def __init__(self, split: str):
         super(MyDataset, self).__init__()
-        self.tokenizer = AutoTokenizer.from_pretrained(MyModel.model_name)
+        self.tokenizer = AutoTokenizer.from_pretrained(MyDataset.model_name)
         self.dataset = load_from_disk("03_Huggingface/data/ChnSentiCorp")[split]
 
     def __len__(self):
@@ -30,9 +34,9 @@ class MyDataset(Dataset):
             padding="max_length"
         )
         for key in input_coded.keys():
-            input_coded[key] = input_coded[key].to(MyModel.device)
+            input_coded[key] = input_coded[key].to(MyDataset.device)
         
-        target = torch.LongTensor(target).to(MyModel.device)
+        target = torch.LongTensor(target).to(MyDataset.device)
         return (input_coded, target)
     
     

@@ -1,0 +1,459 @@
+2025-01-04 13:35:27,694 - my_logger - INFO - epoch: 0, i: 0, loss: 2.3470, acc: 0.1100
+2025-01-04 13:35:39,897 - my_logger - INFO - epoch: 0, i: 1, loss: 2.3112, acc: 0.1025
+2025-01-04 13:35:52,388 - my_logger - INFO - epoch: 0, i: 2, loss: 2.3218, acc: 0.0975
+2025-01-04 13:36:04,567 - my_logger - INFO - epoch: 0, i: 3, loss: 2.3115, acc: 0.0825
+2025-01-04 13:36:16,769 - my_logger - INFO - epoch: 0, i: 4, loss: 2.3251, acc: 0.1000
+2025-01-04 13:36:28,630 - my_logger - INFO - epoch: 0, i: 5, loss: 2.3270, acc: 0.0825
+2025-01-04 13:36:40,942 - my_logger - INFO - epoch: 0, i: 6, loss: 2.3207, acc: 0.1000
+2025-01-04 13:36:53,091 - my_logger - INFO - epoch: 0, i: 7, loss: 2.3195, acc: 0.1050
+2025-01-04 13:38:15,060 - my_logger - INFO - epoch: 0, i: 0, loss: 2.3411, acc: 0.1000
+2025-01-04 13:38:27,467 - my_logger - INFO - epoch: 0, i: 1, loss: 2.3225, acc: 0.1050
+2025-01-04 13:38:39,840 - my_logger - INFO - epoch: 0, i: 2, loss: 2.3425, acc: 0.0850
+2025-01-04 13:38:52,061 - my_logger - INFO - epoch: 0, i: 3, loss: 2.3284, acc: 0.1175
+2025-01-04 13:39:03,939 - my_logger - INFO - epoch: 0, i: 4, loss: 2.3281, acc: 0.0900
+2025-01-04 13:39:16,276 - my_logger - INFO - epoch: 0, i: 5, loss: 2.3288, acc: 0.0725
+2025-01-04 13:39:28,613 - my_logger - INFO - epoch: 0, i: 6, loss: 2.3158, acc: 0.1250
+2025-01-04 13:39:40,814 - my_logger - INFO - epoch: 0, i: 7, loss: 2.3059, acc: 0.1100
+2025-01-04 13:39:53,120 - my_logger - INFO - epoch: 0, i: 8, loss: 2.3105, acc: 0.0925
+2025-01-04 13:40:49,359 - a00_my_logging - INFO - epoch: 0, i: 0, loss: 2.3254, acc: 0.1050
+2025-01-04 13:41:01,388 - a00_my_logging - INFO - epoch: 0, i: 1, loss: 2.3150, acc: 0.0925
+2025-01-04 13:43:50,343 - __main__ - INFO - epoch: 0, i: 0, loss: 2.3171, acc: 0.1100
+2025-01-04 13:44:02,393 - __main__ - INFO - epoch: 0, i: 1, loss: 2.3322, acc: 0.0650
+2025-01-04 13:45:47,719 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3149, acc: 0.1075
+2025-01-04 13:46:00,163 - MyTrainer - INFO - epoch: 0, i: 1, loss: 2.3125, acc: 0.1125
+2025-01-04 13:46:12,468 - MyTrainer - INFO - epoch: 0, i: 2, loss: 2.3100, acc: 0.1075
+2025-01-04 13:46:24,620 - MyTrainer - INFO - epoch: 0, i: 3, loss: 2.3245, acc: 0.0925
+2025-01-04 13:46:37,081 - MyTrainer - INFO - epoch: 0, i: 4, loss: 2.3162, acc: 0.1150
+2025-01-04 13:46:49,054 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.3404, acc: 0.0900
+2025-01-04 13:47:01,121 - MyTrainer - INFO - epoch: 0, i: 6, loss: 2.3202, acc: 0.1075
+2025-01-04 13:47:13,412 - MyTrainer - INFO - epoch: 0, i: 7, loss: 2.3045, acc: 0.0925
+2025-01-04 13:47:25,941 - MyTrainer - INFO - epoch: 0, i: 8, loss: 2.3100, acc: 0.1100
+2025-01-04 13:47:37,997 - MyTrainer - INFO - epoch: 0, i: 9, loss: 2.3064, acc: 0.1000
+2025-01-04 13:47:50,466 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.3181, acc: 0.0950
+2025-01-04 13:48:02,803 - MyTrainer - INFO - epoch: 0, i: 11, loss: 2.3341, acc: 0.1050
+2025-01-04 13:48:14,947 - MyTrainer - INFO - epoch: 0, i: 12, loss: 2.3175, acc: 0.1075
+2025-01-04 13:49:55,221 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3270, acc: 0.1025
+2025-01-04 13:50:07,521 - MyTrainer - INFO - epoch: 0, i: 1, loss: 2.3354, acc: 0.1050
+2025-01-04 13:50:20,057 - MyTrainer - INFO - epoch: 0, i: 2, loss: 2.3247, acc: 0.1100
+2025-01-04 13:50:32,149 - MyTrainer - INFO - epoch: 0, i: 3, loss: 2.3458, acc: 0.0725
+2025-01-04 13:50:44,440 - MyTrainer - INFO - epoch: 0, i: 4, loss: 2.3306, acc: 0.1000
+2025-01-04 13:50:56,569 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.3430, acc: 0.1125
+2025-01-04 13:51:08,825 - MyTrainer - INFO - epoch: 0, i: 6, loss: 2.3240, acc: 0.1000
+2025-01-04 13:51:20,940 - MyTrainer - INFO - epoch: 0, i: 7, loss: 2.3537, acc: 0.0850
+2025-01-04 13:51:33,080 - MyTrainer - INFO - epoch: 0, i: 8, loss: 2.3288, acc: 0.1050
+2025-01-04 13:51:45,545 - MyTrainer - INFO - epoch: 0, i: 9, loss: 2.3388, acc: 0.0925
+2025-01-04 13:51:57,787 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.3385, acc: 0.0950
+2025-01-04 13:52:10,238 - MyTrainer - INFO - epoch: 0, i: 11, loss: 2.3439, acc: 0.0925
+2025-01-04 13:52:22,466 - MyTrainer - INFO - epoch: 0, i: 12, loss: 2.3396, acc: 0.1075
+2025-01-04 13:52:34,584 - MyTrainer - INFO - epoch: 0, i: 13, loss: 2.3320, acc: 0.1125
+2025-01-04 13:52:47,187 - MyTrainer - INFO - epoch: 0, i: 14, loss: 2.3310, acc: 0.0850
+2025-01-04 13:52:59,113 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.3435, acc: 0.0950
+2025-01-04 13:54:24,533 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3150, acc: 0.0875
+2025-01-04 13:55:10,841 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.3223, acc: 0.0925
+2025-01-04 13:55:57,514 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.3322, acc: 0.0850
+2025-01-04 14:10:39,214 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.6870, acc: 0.0000
+2025-01-04 14:10:47,019 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.2752, acc: 0.5000
+2025-01-04 14:10:54,819 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.4903, acc: 0.0000
+2025-01-04 14:11:02,635 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.1099, acc: 0.5000
+2025-01-04 14:11:10,446 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.2466, acc: 0.0000
+2025-01-04 14:11:18,263 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.6463, acc: 0.0000
+2025-01-04 14:11:26,086 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.7637, acc: 0.0000
+2025-01-04 14:11:33,919 - MyTrainer - INFO - epoch: 0, i: 35, loss: 1.9953, acc: 0.0000
+2025-01-04 14:11:41,760 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.3473, acc: 0.0000
+2025-01-04 14:11:49,626 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.4345, acc: 0.0000
+2025-01-04 14:11:57,472 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.7216, acc: 0.0000
+2025-01-04 14:12:05,339 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.5933, acc: 0.0000
+2025-01-04 14:12:13,195 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.7246, acc: 0.0000
+2025-01-04 14:12:35,999 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3796, acc: 0.0000
+2025-01-04 14:13:06,950 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.2452, acc: 0.1250
+2025-01-04 14:13:37,942 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.4421, acc: 0.1250
+2025-01-04 14:14:09,030 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.3378, acc: 0.0000
+2025-01-04 14:14:40,157 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.3072, acc: 0.1250
+2025-01-04 14:15:11,280 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.2652, acc: 0.0000
+2025-01-04 14:15:59,036 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3766, acc: 0.1250
+2025-01-04 14:16:30,285 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3768, acc: 0.0000
+2025-01-04 14:17:24,674 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.4032, acc: 0.0000
+2025-01-04 14:18:19,202 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.4251, acc: 0.0000
+2025-01-04 14:18:52,806 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.4122, acc: 0.0000
+2025-01-04 14:19:39,558 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.3469, acc: 0.1667
+2025-01-04 14:20:26,394 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.2915, acc: 0.1667
+2025-01-04 14:21:13,288 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.0924, acc: 0.3333
+2025-01-04 14:22:00,257 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.4032, acc: 0.1667
+2025-01-04 14:22:47,191 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.2633, acc: 0.3333
+2025-01-04 14:23:34,180 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.4128, acc: 0.0000
+2025-01-04 14:24:21,188 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.2599, acc: 0.0833
+2025-01-04 14:25:08,149 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.3937, acc: 0.0000
+2025-01-04 14:25:55,261 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.4249, acc: 0.0000
+2025-01-04 14:26:42,289 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.3175, acc: 0.0833
+2025-01-04 14:27:29,307 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.2541, acc: 0.2500
+2025-01-04 14:28:16,312 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.3851, acc: 0.0833
+2025-01-04 14:29:03,311 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.2644, acc: 0.1667
+2025-01-04 14:29:50,388 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.2860, acc: 0.0833
+2025-01-04 14:30:37,456 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.4350, acc: 0.0000
+2025-01-04 15:57:24,880 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.4514, acc: 0.0000
+2025-01-04 15:58:04,857 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.2525, acc: 0.5000
+2025-01-04 15:58:44,886 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.8121, acc: 0.0000
+2025-01-04 15:59:24,933 - MyTrainer - INFO - epoch: 0, i: 15, loss: 3.2282, acc: 0.0000
+2025-01-04 16:00:05,025 - MyTrainer - INFO - epoch: 0, i: 20, loss: 3.1162, acc: 0.0000
+2025-01-04 16:00:45,234 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.1574, acc: 0.0000
+2025-01-04 16:01:25,447 - MyTrainer - INFO - epoch: 0, i: 30, loss: 3.0670, acc: 0.0000
+2025-01-04 16:02:05,658 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.7864, acc: 0.0000
+2025-01-04 16:02:45,879 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.5131, acc: 0.0000
+2025-01-04 16:03:26,081 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.1508, acc: 0.5000
+2025-01-04 16:04:06,323 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.3475, acc: 0.0000
+2025-01-04 16:04:46,533 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.9325, acc: 0.0000
+2025-01-04 16:05:26,779 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.6575, acc: 0.0000
+2025-01-04 16:06:07,116 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.2802, acc: 0.0000
+2025-01-04 16:06:47,580 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.7602, acc: 0.0000
+2025-01-04 16:07:28,016 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.4058, acc: 0.0000
+2025-01-04 16:10:19,929 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3538, acc: 0.0333
+2025-01-04 16:10:32,095 - MyTrainer - INFO - epoch: 0, i: 5, loss: 2.2765, acc: 0.1000
+2025-01-04 16:10:44,502 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.2991, acc: 0.1333
+2025-01-04 16:10:56,723 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.2980, acc: 0.1000
+2025-01-04 16:11:08,988 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.2446, acc: 0.2000
+2025-01-04 16:11:21,252 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.3775, acc: 0.1000
+2025-01-04 16:11:33,517 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.3163, acc: 0.0333
+2025-01-04 16:11:45,743 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.2841, acc: 0.1333
+2025-01-04 16:11:58,040 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.4177, acc: 0.0333
+2025-01-04 16:12:10,270 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.3071, acc: 0.1000
+2025-01-04 16:12:22,446 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.2773, acc: 0.2333
+2025-01-04 16:12:34,739 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.2214, acc: 0.2333
+2025-01-04 16:12:47,009 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.3434, acc: 0.0667
+2025-01-04 16:12:59,259 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.3127, acc: 0.1667
+2025-01-04 16:13:11,629 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.3842, acc: 0.1000
+2025-01-04 16:13:23,965 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.2695, acc: 0.0667
+2025-01-04 16:13:36,286 - MyTrainer - INFO - epoch: 0, i: 80, loss: 2.3022, acc: 0.2333
+2025-01-04 16:13:48,586 - MyTrainer - INFO - epoch: 0, i: 85, loss: 2.2438, acc: 0.2000
+2025-01-04 16:14:08,133 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3587, acc: 0.0333
+2025-01-04 16:14:20,498 - MyTrainer - INFO - epoch: 0, i: 5, loss: 3.7507, acc: 0.0333
+2025-01-04 16:14:32,765 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.4631, acc: 0.1667
+2025-01-04 16:14:45,016 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.4083, acc: 0.0667
+2025-01-04 16:14:57,290 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.4318, acc: 0.1000
+2025-01-04 16:15:09,568 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.4303, acc: 0.0333
+2025-01-04 16:15:21,778 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.2909, acc: 0.1333
+2025-01-04 16:15:34,042 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.4517, acc: 0.1000
+2025-01-04 16:15:46,289 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.2803, acc: 0.1333
+2025-01-04 16:15:58,537 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.3577, acc: 0.1667
+2025-01-04 16:16:10,769 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.3997, acc: 0.1667
+2025-01-04 16:16:23,098 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.4035, acc: 0.0667
+2025-01-04 16:16:35,470 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.2923, acc: 0.2000
+2025-01-04 16:16:47,765 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.3147, acc: 0.0000
+2025-01-04 16:17:00,084 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.4500, acc: 0.1333
+2025-01-04 16:17:12,432 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.4449, acc: 0.0667
+2025-01-04 16:17:24,672 - MyTrainer - INFO - epoch: 0, i: 80, loss: 2.3532, acc: 0.0667
+2025-01-04 16:17:36,985 - MyTrainer - INFO - epoch: 0, i: 85, loss: 2.5076, acc: 0.0333
+2025-01-04 16:17:49,214 - MyTrainer - INFO - epoch: 0, i: 90, loss: 2.3376, acc: 0.1333
+2025-01-04 16:18:01,452 - MyTrainer - INFO - epoch: 0, i: 95, loss: 2.3712, acc: 0.0667
+2025-01-04 16:18:13,676 - MyTrainer - INFO - epoch: 0, i: 100, loss: 2.4154, acc: 0.0667
+2025-01-04 16:18:26,003 - MyTrainer - INFO - epoch: 0, i: 105, loss: 2.3090, acc: 0.1667
+2025-01-04 16:18:38,313 - MyTrainer - INFO - epoch: 0, i: 110, loss: 2.2814, acc: 0.1000
+2025-01-04 16:18:50,558 - MyTrainer - INFO - epoch: 0, i: 115, loss: 2.3276, acc: 0.1333
+2025-01-04 16:19:02,860 - MyTrainer - INFO - epoch: 0, i: 120, loss: 2.3860, acc: 0.1000
+2025-01-04 16:19:15,153 - MyTrainer - INFO - epoch: 0, i: 125, loss: 2.6395, acc: 0.0333
+2025-01-04 16:19:27,405 - MyTrainer - INFO - epoch: 0, i: 130, loss: 2.2775, acc: 0.1667
+2025-01-04 16:19:39,666 - MyTrainer - INFO - epoch: 0, i: 135, loss: 2.3429, acc: 0.1667
+2025-01-04 16:19:51,960 - MyTrainer - INFO - epoch: 0, i: 140, loss: 2.3310, acc: 0.1333
+2025-01-04 16:20:04,280 - MyTrainer - INFO - epoch: 0, i: 145, loss: 2.3803, acc: 0.0667
+2025-01-04 16:20:16,587 - MyTrainer - INFO - epoch: 0, i: 150, loss: 2.2910, acc: 0.1333
+2025-01-04 16:20:28,834 - MyTrainer - INFO - epoch: 0, i: 155, loss: 2.4165, acc: 0.1000
+2025-01-04 16:20:41,167 - MyTrainer - INFO - epoch: 0, i: 160, loss: 2.3590, acc: 0.1000
+2025-01-04 16:20:53,380 - MyTrainer - INFO - epoch: 0, i: 165, loss: 2.2331, acc: 0.2000
+2025-01-04 16:21:05,631 - MyTrainer - INFO - epoch: 0, i: 170, loss: 2.6456, acc: 0.0333
+2025-01-04 16:21:17,876 - MyTrainer - INFO - epoch: 0, i: 175, loss: 2.3423, acc: 0.1000
+2025-01-04 16:21:30,226 - MyTrainer - INFO - epoch: 0, i: 180, loss: 2.4309, acc: 0.2000
+2025-01-04 16:21:42,535 - MyTrainer - INFO - epoch: 0, i: 185, loss: 2.3801, acc: 0.0667
+2025-01-04 16:21:54,837 - MyTrainer - INFO - epoch: 0, i: 190, loss: 2.4645, acc: 0.1000
+2025-01-04 16:22:07,131 - MyTrainer - INFO - epoch: 0, i: 195, loss: 2.4688, acc: 0.1667
+2025-01-04 16:22:19,421 - MyTrainer - INFO - epoch: 0, i: 200, loss: 2.5456, acc: 0.0333
+2025-01-04 16:22:31,746 - MyTrainer - INFO - epoch: 0, i: 205, loss: 2.4063, acc: 0.1000
+2025-01-04 16:22:44,111 - MyTrainer - INFO - epoch: 0, i: 210, loss: 2.3973, acc: 0.1333
+2025-01-04 16:22:56,433 - MyTrainer - INFO - epoch: 0, i: 215, loss: 2.3524, acc: 0.0667
+2025-01-04 16:23:08,701 - MyTrainer - INFO - epoch: 0, i: 220, loss: 2.7073, acc: 0.0333
+2025-01-04 16:23:21,034 - MyTrainer - INFO - epoch: 0, i: 225, loss: 2.2570, acc: 0.1667
+2025-01-04 16:23:33,485 - MyTrainer - INFO - epoch: 0, i: 230, loss: 2.3907, acc: 0.0667
+2025-01-04 16:23:45,786 - MyTrainer - INFO - epoch: 0, i: 235, loss: 2.3322, acc: 0.0667
+2025-01-04 16:23:58,057 - MyTrainer - INFO - epoch: 0, i: 240, loss: 2.3798, acc: 0.0333
+2025-01-04 16:24:10,344 - MyTrainer - INFO - epoch: 0, i: 245, loss: 2.3364, acc: 0.0333
+2025-01-04 16:24:22,739 - MyTrainer - INFO - epoch: 0, i: 250, loss: 2.3765, acc: 0.0667
+2025-01-04 16:24:34,964 - MyTrainer - INFO - epoch: 0, i: 255, loss: 2.3385, acc: 0.2000
+2025-01-04 16:24:47,258 - MyTrainer - INFO - epoch: 0, i: 260, loss: 2.4958, acc: 0.0333
+2025-01-04 16:24:59,559 - MyTrainer - INFO - epoch: 0, i: 265, loss: 2.2214, acc: 0.1667
+2025-01-04 16:25:11,935 - MyTrainer - INFO - epoch: 0, i: 270, loss: 2.2419, acc: 0.1333
+2025-01-04 16:25:24,218 - MyTrainer - INFO - epoch: 0, i: 275, loss: 2.4126, acc: 0.1000
+2025-01-04 16:25:36,500 - MyTrainer - INFO - epoch: 0, i: 280, loss: 2.3753, acc: 0.0333
+2025-01-04 16:25:48,778 - MyTrainer - INFO - epoch: 0, i: 285, loss: 2.2664, acc: 0.0667
+2025-01-04 16:26:01,081 - MyTrainer - INFO - epoch: 0, i: 290, loss: 2.3794, acc: 0.0667
+2025-01-04 16:26:13,421 - MyTrainer - INFO - epoch: 0, i: 295, loss: 2.4899, acc: 0.0667
+2025-01-04 16:26:25,702 - MyTrainer - INFO - epoch: 0, i: 300, loss: 2.2832, acc: 0.1333
+2025-01-04 16:26:37,999 - MyTrainer - INFO - epoch: 0, i: 305, loss: 2.4118, acc: 0.0333
+2025-01-04 16:26:50,395 - MyTrainer - INFO - epoch: 0, i: 310, loss: 2.3760, acc: 0.0667
+2025-01-04 16:27:02,672 - MyTrainer - INFO - epoch: 0, i: 315, loss: 2.4882, acc: 0.1000
+2025-01-04 16:27:14,930 - MyTrainer - INFO - epoch: 0, i: 320, loss: 2.3566, acc: 0.1333
+2025-01-04 16:27:27,270 - MyTrainer - INFO - epoch: 0, i: 325, loss: 2.3511, acc: 0.1333
+2025-01-04 16:27:39,589 - MyTrainer - INFO - epoch: 0, i: 330, loss: 2.5427, acc: 0.0667
+2025-01-04 16:27:51,870 - MyTrainer - INFO - epoch: 0, i: 335, loss: 2.3902, acc: 0.1667
+2025-01-04 16:28:04,211 - MyTrainer - INFO - epoch: 0, i: 340, loss: 2.3779, acc: 0.1000
+2025-01-04 16:28:16,616 - MyTrainer - INFO - epoch: 0, i: 345, loss: 2.4611, acc: 0.1000
+2025-01-04 16:28:29,002 - MyTrainer - INFO - epoch: 0, i: 350, loss: 2.5214, acc: 0.0667
+2025-01-04 16:28:41,333 - MyTrainer - INFO - epoch: 0, i: 355, loss: 2.3693, acc: 0.1000
+2025-01-04 16:28:53,675 - MyTrainer - INFO - epoch: 0, i: 360, loss: 2.3553, acc: 0.1000
+2025-01-04 16:29:06,018 - MyTrainer - INFO - epoch: 0, i: 365, loss: 2.5355, acc: 0.0667
+2025-01-04 16:29:18,414 - MyTrainer - INFO - epoch: 0, i: 370, loss: 2.3900, acc: 0.1000
+2025-01-04 16:29:30,732 - MyTrainer - INFO - epoch: 0, i: 375, loss: 2.4715, acc: 0.1000
+2025-01-04 16:29:50,364 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3910, acc: 0.1000
+2025-01-04 16:30:02,656 - MyTrainer - INFO - epoch: 0, i: 5, loss: 5.2981, acc: 0.1333
+2025-01-04 16:30:14,891 - MyTrainer - INFO - epoch: 0, i: 10, loss: 3.1666, acc: 0.0667
+2025-01-04 16:30:27,171 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.6452, acc: 0.0000
+2025-01-04 16:30:39,498 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.4756, acc: 0.0667
+2025-01-04 16:30:51,865 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.2180, acc: 0.2000
+2025-01-04 16:31:04,237 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.6735, acc: 0.1333
+2025-01-04 16:31:16,594 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.5395, acc: 0.0333
+2025-01-04 16:31:28,927 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.3778, acc: 0.0333
+2025-01-04 16:31:41,296 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.6102, acc: 0.0667
+2025-01-04 16:31:53,537 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.4629, acc: 0.0667
+2025-01-04 16:32:05,832 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.5881, acc: 0.0667
+2025-01-04 16:32:18,120 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.5029, acc: 0.0333
+2025-01-04 16:32:30,383 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.6350, acc: 0.0333
+2025-01-04 16:32:42,714 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.5823, acc: 0.1000
+2025-01-04 16:32:55,022 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.4346, acc: 0.1667
+2025-01-04 16:33:07,264 - MyTrainer - INFO - epoch: 0, i: 80, loss: 2.4348, acc: 0.1000
+2025-01-04 16:33:19,525 - MyTrainer - INFO - epoch: 0, i: 85, loss: 2.3460, acc: 0.1000
+2025-01-04 16:33:31,911 - MyTrainer - INFO - epoch: 0, i: 90, loss: 2.4372, acc: 0.0667
+2025-01-04 16:33:44,232 - MyTrainer - INFO - epoch: 0, i: 95, loss: 2.4169, acc: 0.1000
+2025-01-04 16:33:56,651 - MyTrainer - INFO - epoch: 0, i: 100, loss: 2.6465, acc: 0.1000
+2025-01-04 16:35:06,489 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.4166, acc: 0.0667
+2025-01-04 16:35:18,779 - MyTrainer - INFO - epoch: 0, i: 5, loss: 3.3800, acc: 0.0333
+2025-01-04 16:35:31,040 - MyTrainer - INFO - epoch: 0, i: 10, loss: 2.8098, acc: 0.0667
+2025-01-04 16:35:43,344 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.5145, acc: 0.1000
+2025-01-04 16:35:55,631 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.4855, acc: 0.0667
+2025-01-04 16:36:07,896 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.5111, acc: 0.1333
+2025-01-04 16:36:20,193 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.3399, acc: 0.0667
+2025-01-04 16:36:32,449 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.3756, acc: 0.1000
+2025-01-04 16:36:44,680 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.2973, acc: 0.0333
+2025-01-04 16:36:56,944 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.2919, acc: 0.1667
+2025-01-04 16:37:09,309 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.3454, acc: 0.1667
+2025-01-04 16:37:21,559 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.5191, acc: 0.0333
+2025-01-04 16:37:33,858 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.7849, acc: 0.0333
+2025-01-04 16:37:46,074 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.4511, acc: 0.1000
+2025-01-04 16:37:58,376 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.2252, acc: 0.2333
+2025-01-04 16:38:10,686 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.4015, acc: 0.0667
+2025-01-04 16:38:22,949 - MyTrainer - INFO - epoch: 0, i: 80, loss: 2.3755, acc: 0.0667
+2025-01-04 16:38:35,254 - MyTrainer - INFO - epoch: 0, i: 85, loss: 2.2329, acc: 0.1000
+2025-01-04 16:38:47,559 - MyTrainer - INFO - epoch: 0, i: 90, loss: 2.4445, acc: 0.0667
+2025-01-04 16:38:59,855 - MyTrainer - INFO - epoch: 0, i: 95, loss: 2.2870, acc: 0.1000
+2025-01-04 16:39:12,134 - MyTrainer - INFO - epoch: 0, i: 100, loss: 2.4138, acc: 0.0667
+2025-01-04 16:39:24,430 - MyTrainer - INFO - epoch: 0, i: 105, loss: 2.2912, acc: 0.1333
+2025-01-04 16:39:36,739 - MyTrainer - INFO - epoch: 0, i: 110, loss: 2.3180, acc: 0.1667
+2025-01-04 16:39:49,059 - MyTrainer - INFO - epoch: 0, i: 115, loss: 2.3047, acc: 0.0667
+2025-01-04 16:40:01,343 - MyTrainer - INFO - epoch: 0, i: 120, loss: 2.4687, acc: 0.1667
+2025-01-04 16:40:13,623 - MyTrainer - INFO - epoch: 0, i: 125, loss: 2.4671, acc: 0.0333
+2025-01-04 16:40:25,967 - MyTrainer - INFO - epoch: 0, i: 130, loss: 2.3742, acc: 0.0667
+2025-01-04 16:40:38,220 - MyTrainer - INFO - epoch: 0, i: 135, loss: 2.3327, acc: 0.1667
+2025-01-04 16:40:50,556 - MyTrainer - INFO - epoch: 0, i: 140, loss: 2.3347, acc: 0.1000
+2025-01-04 16:41:02,879 - MyTrainer - INFO - epoch: 0, i: 145, loss: 2.3447, acc: 0.1333
+2025-01-04 16:41:15,212 - MyTrainer - INFO - epoch: 0, i: 150, loss: 2.3113, acc: 0.0667
+2025-01-04 16:41:27,553 - MyTrainer - INFO - epoch: 0, i: 155, loss: 2.4662, acc: 0.0333
+2025-01-04 16:41:39,838 - MyTrainer - INFO - epoch: 0, i: 160, loss: 2.2988, acc: 0.0667
+2025-01-04 16:41:52,146 - MyTrainer - INFO - epoch: 0, i: 165, loss: 2.3171, acc: 0.1333
+2025-01-04 16:42:04,501 - MyTrainer - INFO - epoch: 0, i: 170, loss: 2.3549, acc: 0.0667
+2025-01-04 16:42:16,844 - MyTrainer - INFO - epoch: 0, i: 175, loss: 2.4752, acc: 0.0000
+2025-01-04 16:42:29,203 - MyTrainer - INFO - epoch: 0, i: 180, loss: 2.2680, acc: 0.1667
+2025-01-04 16:42:41,536 - MyTrainer - INFO - epoch: 0, i: 185, loss: 2.3229, acc: 0.2333
+2025-01-04 16:42:53,988 - MyTrainer - INFO - epoch: 0, i: 190, loss: 2.3586, acc: 0.1000
+2025-01-04 16:43:06,386 - MyTrainer - INFO - epoch: 0, i: 195, loss: 2.4296, acc: 0.0333
+2025-01-04 16:43:18,723 - MyTrainer - INFO - epoch: 0, i: 200, loss: 2.3680, acc: 0.1000
+2025-01-04 16:43:31,008 - MyTrainer - INFO - epoch: 0, i: 205, loss: 2.4657, acc: 0.0667
+2025-01-04 16:43:43,335 - MyTrainer - INFO - epoch: 0, i: 210, loss: 2.3670, acc: 0.0000
+2025-01-04 16:43:55,674 - MyTrainer - INFO - epoch: 0, i: 215, loss: 2.5246, acc: 0.0667
+2025-01-04 16:44:07,992 - MyTrainer - INFO - epoch: 0, i: 220, loss: 2.3201, acc: 0.1000
+2025-01-04 16:44:20,286 - MyTrainer - INFO - epoch: 0, i: 225, loss: 2.4655, acc: 0.1000
+2025-01-04 16:44:32,645 - MyTrainer - INFO - epoch: 0, i: 230, loss: 2.4271, acc: 0.0667
+2025-01-04 16:44:44,973 - MyTrainer - INFO - epoch: 0, i: 235, loss: 2.5385, acc: 0.0333
+2025-01-04 16:44:57,339 - MyTrainer - INFO - epoch: 0, i: 240, loss: 2.4447, acc: 0.1333
+2025-01-04 16:45:09,667 - MyTrainer - INFO - epoch: 0, i: 245, loss: 2.3297, acc: 0.1667
+2025-01-04 16:45:22,007 - MyTrainer - INFO - epoch: 0, i: 250, loss: 2.4359, acc: 0.1667
+2025-01-04 16:45:34,330 - MyTrainer - INFO - epoch: 0, i: 255, loss: 2.1765, acc: 0.1333
+2025-01-04 16:45:46,662 - MyTrainer - INFO - epoch: 0, i: 260, loss: 2.2915, acc: 0.1000
+2025-01-04 16:45:59,017 - MyTrainer - INFO - epoch: 0, i: 265, loss: 2.3643, acc: 0.0333
+2025-01-04 16:46:11,436 - MyTrainer - INFO - epoch: 0, i: 270, loss: 2.3200, acc: 0.1667
+2025-01-04 16:46:23,755 - MyTrainer - INFO - epoch: 0, i: 275, loss: 2.2651, acc: 0.0667
+2025-01-04 16:46:36,082 - MyTrainer - INFO - epoch: 0, i: 280, loss: 2.4296, acc: 0.1667
+2025-01-04 16:46:48,429 - MyTrainer - INFO - epoch: 0, i: 285, loss: 2.3845, acc: 0.2000
+2025-01-04 16:47:00,747 - MyTrainer - INFO - epoch: 0, i: 290, loss: 2.4038, acc: 0.1333
+2025-01-04 16:47:13,131 - MyTrainer - INFO - epoch: 0, i: 295, loss: 2.4408, acc: 0.1333
+2025-01-04 16:47:25,425 - MyTrainer - INFO - epoch: 0, i: 300, loss: 2.5483, acc: 0.1000
+2025-01-04 16:47:37,775 - MyTrainer - INFO - epoch: 0, i: 305, loss: 2.3108, acc: 0.1333
+2025-01-04 16:47:50,124 - MyTrainer - INFO - epoch: 0, i: 310, loss: 2.4106, acc: 0.1333
+2025-01-04 16:48:02,348 - MyTrainer - INFO - epoch: 0, i: 315, loss: 2.4065, acc: 0.1000
+2025-01-04 16:48:14,706 - MyTrainer - INFO - epoch: 0, i: 320, loss: 2.5081, acc: 0.1333
+2025-01-04 16:48:27,054 - MyTrainer - INFO - epoch: 0, i: 325, loss: 2.3558, acc: 0.0333
+2025-01-04 16:48:39,348 - MyTrainer - INFO - epoch: 0, i: 330, loss: 2.5234, acc: 0.0333
+2025-01-04 16:48:51,664 - MyTrainer - INFO - epoch: 0, i: 335, loss: 2.4318, acc: 0.0333
+2025-01-04 16:49:04,010 - MyTrainer - INFO - epoch: 0, i: 340, loss: 2.3403, acc: 0.1000
+2025-01-04 16:49:16,382 - MyTrainer - INFO - epoch: 0, i: 345, loss: 2.4867, acc: 0.0667
+2025-01-04 16:49:28,735 - MyTrainer - INFO - epoch: 0, i: 350, loss: 2.3438, acc: 0.0667
+2025-01-04 16:49:41,055 - MyTrainer - INFO - epoch: 0, i: 355, loss: 2.4371, acc: 0.0667
+2025-01-04 16:49:53,438 - MyTrainer - INFO - epoch: 0, i: 360, loss: 2.2585, acc: 0.2000
+2025-01-04 16:50:05,756 - MyTrainer - INFO - epoch: 0, i: 365, loss: 2.4152, acc: 0.2333
+2025-01-04 16:50:18,036 - MyTrainer - INFO - epoch: 0, i: 370, loss: 2.5074, acc: 0.0667
+2025-01-04 16:50:30,323 - MyTrainer - INFO - epoch: 0, i: 375, loss: 2.4114, acc: 0.0667
+2025-01-04 16:50:42,721 - MyTrainer - INFO - epoch: 0, i: 380, loss: 2.3260, acc: 0.1000
+2025-01-04 16:50:55,124 - MyTrainer - INFO - epoch: 0, i: 385, loss: 2.3652, acc: 0.1000
+2025-01-04 16:51:07,417 - MyTrainer - INFO - epoch: 0, i: 390, loss: 2.3560, acc: 0.1667
+2025-01-04 16:51:19,779 - MyTrainer - INFO - epoch: 0, i: 395, loss: 2.6188, acc: 0.0000
+2025-01-04 16:51:32,111 - MyTrainer - INFO - epoch: 0, i: 400, loss: 2.3131, acc: 0.1333
+2025-01-04 16:51:44,429 - MyTrainer - INFO - epoch: 0, i: 405, loss: 2.4629, acc: 0.0333
+2025-01-04 16:51:56,792 - MyTrainer - INFO - epoch: 0, i: 410, loss: 2.3492, acc: 0.1000
+2025-01-04 16:52:09,119 - MyTrainer - INFO - epoch: 0, i: 415, loss: 2.2438, acc: 0.1667
+2025-01-04 16:52:21,465 - MyTrainer - INFO - epoch: 0, i: 420, loss: 2.2868, acc: 0.1333
+2025-01-04 16:52:33,775 - MyTrainer - INFO - epoch: 0, i: 425, loss: 2.3346, acc: 0.1333
+2025-01-04 16:52:46,155 - MyTrainer - INFO - epoch: 0, i: 430, loss: 2.2961, acc: 0.1000
+2025-01-04 16:52:58,598 - MyTrainer - INFO - epoch: 0, i: 435, loss: 2.5014, acc: 0.0667
+2025-01-04 16:53:10,923 - MyTrainer - INFO - epoch: 0, i: 440, loss: 2.3172, acc: 0.1333
+2025-01-04 16:53:23,309 - MyTrainer - INFO - epoch: 0, i: 445, loss: 2.2994, acc: 0.1000
+2025-01-04 16:53:35,667 - MyTrainer - INFO - epoch: 0, i: 450, loss: 2.3601, acc: 0.0667
+2025-01-04 16:53:47,985 - MyTrainer - INFO - epoch: 0, i: 455, loss: 2.4040, acc: 0.1667
+2025-01-04 16:54:00,287 - MyTrainer - INFO - epoch: 0, i: 460, loss: 2.4059, acc: 0.1000
+2025-01-04 16:54:12,720 - MyTrainer - INFO - epoch: 0, i: 465, loss: 2.4325, acc: 0.1000
+2025-01-04 16:54:25,036 - MyTrainer - INFO - epoch: 0, i: 470, loss: 2.3038, acc: 0.1667
+2025-01-04 16:54:37,479 - MyTrainer - INFO - epoch: 0, i: 475, loss: 2.4698, acc: 0.1000
+2025-01-04 16:54:49,797 - MyTrainer - INFO - epoch: 0, i: 480, loss: 2.2834, acc: 0.1333
+2025-01-04 16:55:02,048 - MyTrainer - INFO - epoch: 0, i: 485, loss: 2.3840, acc: 0.2000
+2025-01-04 16:55:14,382 - MyTrainer - INFO - epoch: 0, i: 490, loss: 2.4554, acc: 0.1000
+2025-01-04 16:55:26,711 - MyTrainer - INFO - epoch: 0, i: 495, loss: 2.3059, acc: 0.1000
+2025-01-04 16:55:39,035 - MyTrainer - INFO - epoch: 0, i: 500, loss: 2.3492, acc: 0.1333
+2025-01-04 16:55:51,388 - MyTrainer - INFO - epoch: 0, i: 505, loss: 2.3753, acc: 0.1333
+2025-01-04 16:56:03,622 - MyTrainer - INFO - epoch: 0, i: 510, loss: 2.2573, acc: 0.2333
+2025-01-04 16:56:15,948 - MyTrainer - INFO - epoch: 0, i: 515, loss: 2.1784, acc: 0.2667
+2025-01-04 16:56:28,265 - MyTrainer - INFO - epoch: 0, i: 520, loss: 2.4634, acc: 0.0333
+2025-01-04 16:56:40,776 - MyTrainer - INFO - epoch: 0, i: 525, loss: 2.4088, acc: 0.1000
+2025-01-04 16:56:53,103 - MyTrainer - INFO - epoch: 0, i: 530, loss: 2.3002, acc: 0.1333
+2025-01-04 16:57:05,466 - MyTrainer - INFO - epoch: 0, i: 535, loss: 2.3811, acc: 0.0333
+2025-01-04 16:57:17,835 - MyTrainer - INFO - epoch: 0, i: 540, loss: 2.3697, acc: 0.0667
+2025-01-04 16:57:30,172 - MyTrainer - INFO - epoch: 0, i: 545, loss: 2.3765, acc: 0.0667
+2025-01-04 16:57:42,488 - MyTrainer - INFO - epoch: 0, i: 550, loss: 2.3545, acc: 0.0333
+2025-01-04 16:57:54,816 - MyTrainer - INFO - epoch: 0, i: 555, loss: 2.6175, acc: 0.0667
+2025-01-04 16:58:07,164 - MyTrainer - INFO - epoch: 0, i: 560, loss: 2.2559, acc: 0.0667
+2025-01-04 16:58:19,481 - MyTrainer - INFO - epoch: 0, i: 565, loss: 2.4765, acc: 0.0000
+2025-01-04 16:58:31,784 - MyTrainer - INFO - epoch: 0, i: 570, loss: 2.5121, acc: 0.0667
+2025-01-04 16:58:44,083 - MyTrainer - INFO - epoch: 0, i: 575, loss: 2.3020, acc: 0.1333
+2025-01-04 16:58:56,442 - MyTrainer - INFO - epoch: 0, i: 580, loss: 2.3577, acc: 0.1000
+2025-01-04 16:59:08,809 - MyTrainer - INFO - epoch: 0, i: 585, loss: 2.3408, acc: 0.1333
+2025-01-04 16:59:21,155 - MyTrainer - INFO - epoch: 0, i: 590, loss: 2.4137, acc: 0.0667
+2025-01-04 17:05:33,443 - MyTrainer - INFO - epoch: 0, i: 0, loss: 2.3506, acc: 0.0667
+2025-01-04 17:05:45,488 - MyTrainer - INFO - epoch: 0, i: 5, loss: 4.2718, acc: 0.0333
+2025-01-04 17:05:57,619 - MyTrainer - INFO - epoch: 0, i: 10, loss: 3.4094, acc: 0.0000
+2025-01-04 17:06:09,756 - MyTrainer - INFO - epoch: 0, i: 15, loss: 2.6097, acc: 0.0667
+2025-01-04 17:06:21,937 - MyTrainer - INFO - epoch: 0, i: 20, loss: 2.8539, acc: 0.0333
+2025-01-04 17:06:34,051 - MyTrainer - INFO - epoch: 0, i: 25, loss: 2.6145, acc: 0.0667
+2025-01-04 17:06:46,277 - MyTrainer - INFO - epoch: 0, i: 30, loss: 2.5027, acc: 0.0333
+2025-01-04 17:06:58,568 - MyTrainer - INFO - epoch: 0, i: 35, loss: 2.2546, acc: 0.2667
+2025-01-04 17:07:10,750 - MyTrainer - INFO - epoch: 0, i: 40, loss: 2.4613, acc: 0.1333
+2025-01-04 17:07:23,064 - MyTrainer - INFO - epoch: 0, i: 45, loss: 2.2882, acc: 0.1333
+2025-01-04 17:07:35,253 - MyTrainer - INFO - epoch: 0, i: 50, loss: 2.6306, acc: 0.0333
+2025-01-04 17:07:47,415 - MyTrainer - INFO - epoch: 0, i: 55, loss: 2.4265, acc: 0.0667
+2025-01-04 17:07:59,597 - MyTrainer - INFO - epoch: 0, i: 60, loss: 2.3045, acc: 0.0333
+2025-01-04 17:08:11,775 - MyTrainer - INFO - epoch: 0, i: 65, loss: 2.4249, acc: 0.1333
+2025-01-04 17:08:24,020 - MyTrainer - INFO - epoch: 0, i: 70, loss: 2.3476, acc: 0.0333
+2025-01-04 17:08:36,361 - MyTrainer - INFO - epoch: 0, i: 75, loss: 2.2264, acc: 0.1000
+2025-01-04 17:08:48,639 - MyTrainer - INFO - epoch: 0, i: 80, loss: 2.4384, acc: 0.1667
+2025-01-04 17:09:00,938 - MyTrainer - INFO - epoch: 0, i: 85, loss: 2.5338, acc: 0.0333
+2025-01-04 17:09:13,140 - MyTrainer - INFO - epoch: 0, i: 90, loss: 2.2550, acc: 0.1000
+2025-01-04 17:09:25,361 - MyTrainer - INFO - epoch: 0, i: 95, loss: 2.3498, acc: 0.1000
+2025-01-04 17:09:37,720 - MyTrainer - INFO - epoch: 0, i: 100, loss: 2.4086, acc: 0.0333
+2025-01-04 17:09:49,993 - MyTrainer - INFO - epoch: 0, i: 105, loss: 2.3880, acc: 0.0000
+2025-01-04 17:10:02,272 - MyTrainer - INFO - epoch: 0, i: 110, loss: 2.6150, acc: 0.0333
+2025-01-04 17:10:14,561 - MyTrainer - INFO - epoch: 0, i: 115, loss: 2.4689, acc: 0.0667
+2025-01-04 17:10:26,850 - MyTrainer - INFO - epoch: 0, i: 120, loss: 2.2515, acc: 0.1000
+2025-01-04 17:10:39,132 - MyTrainer - INFO - epoch: 0, i: 125, loss: 2.2263, acc: 0.1667
+2025-01-04 17:10:51,403 - MyTrainer - INFO - epoch: 0, i: 130, loss: 2.7046, acc: 0.0667
+2025-01-04 17:11:03,649 - MyTrainer - INFO - epoch: 0, i: 135, loss: 2.2819, acc: 0.1000
+2025-01-04 17:11:16,072 - MyTrainer - INFO - epoch: 0, i: 140, loss: 2.5699, acc: 0.1333
+2025-01-04 17:11:28,350 - MyTrainer - INFO - epoch: 0, i: 145, loss: 2.5149, acc: 0.1000
+2025-01-05 00:11:24,742 - MyTrainer - INFO - epoch: 0,batch: 0,loss: 11.9467,lr: 0.00002,acc: 0.0714
+2025-01-05 00:12:13,715 - MyTrainer - INFO - epoch: 0,batch: 50,loss: 0.2878,lr: 0.00002,acc: 0.1828
+2025-01-05 00:12:57,091 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 11.5415, lr: 0.00002, acc: 0.0737
+2025-01-05 00:13:46,288 - MyTrainer - INFO - epoch: 0, batch: 50, loss: 0.3039, lr: 0.00002, acc: 0.1868
+2025-01-05 00:14:35,636 - MyTrainer - INFO - epoch: 0, batch: 100, loss: 0.2054, lr: 0.00002, acc: 0.2194
+2025-01-05 00:15:25,066 - MyTrainer - INFO - epoch: 0, batch: 150, loss: 0.2767, lr: 0.00002, acc: 0.2079
+2025-01-05 00:16:14,527 - MyTrainer - INFO - epoch: 0, batch: 200, loss: 0.4066, lr: 0.00002, acc: 0.2079
+2025-01-05 00:17:04,014 - MyTrainer - INFO - epoch: 0, batch: 250, loss: 0.2967, lr: 0.00002, acc: 0.2182
+2025-01-05 00:17:53,542 - MyTrainer - INFO - epoch: 0, batch: 300, loss: 0.2658, lr: 0.00002, acc: 0.2336
+2025-01-05 00:18:43,175 - MyTrainer - INFO - epoch: 0, batch: 350, loss: 0.2330, lr: 0.00002, acc: 0.2074
+2025-01-05 00:19:32,853 - MyTrainer - INFO - epoch: 0, batch: 400, loss: 0.4326, lr: 0.00002, acc: 0.1980
+2025-01-05 00:20:22,526 - MyTrainer - INFO - epoch: 0, batch: 450, loss: 0.5991, lr: 0.00002, acc: 0.2080
+2025-01-05 00:21:12,220 - MyTrainer - INFO - epoch: 0, batch: 500, loss: 0.3478, lr: 0.00002, acc: 0.2021
+2025-01-05 00:22:01,923 - MyTrainer - INFO - epoch: 0, batch: 550, loss: 0.3734, lr: 0.00002, acc: 0.2259
+2025-01-05 00:22:51,631 - MyTrainer - INFO - epoch: 0, batch: 600, loss: 0.3011, lr: 0.00002, acc: 0.2390
+2025-01-05 00:23:41,357 - MyTrainer - INFO - epoch: 0, batch: 650, loss: 0.2590, lr: 0.00002, acc: 0.2388
+2025-01-05 00:24:31,079 - MyTrainer - INFO - epoch: 0, batch: 700, loss: 0.4303, lr: 0.00002, acc: 0.2115
+2025-01-05 00:25:20,805 - MyTrainer - INFO - epoch: 0, batch: 750, loss: 0.2784, lr: 0.00002, acc: 0.2186
+2025-01-05 00:26:10,543 - MyTrainer - INFO - epoch: 0, batch: 800, loss: 0.3743, lr: 0.00002, acc: 0.2429
+2025-01-05 00:27:00,282 - MyTrainer - INFO - epoch: 0, batch: 850, loss: 0.4096, lr: 0.00002, acc: 0.2222
+2025-01-05 00:27:50,033 - MyTrainer - INFO - epoch: 0, batch: 900, loss: 0.2271, lr: 0.00002, acc: 0.2321
+2025-01-05 00:28:39,776 - MyTrainer - INFO - epoch: 0, batch: 950, loss: 0.2807, lr: 0.00002, acc: 0.2405
+2025-01-05 00:29:29,519 - MyTrainer - INFO - epoch: 0, batch: 1000, loss: 0.2805, lr: 0.00002, acc: 0.2055
+2025-01-05 00:30:19,269 - MyTrainer - INFO - epoch: 0, batch: 1050, loss: 0.2304, lr: 0.00002, acc: 0.2405
+2025-01-05 00:31:09,016 - MyTrainer - INFO - epoch: 0, batch: 1100, loss: 0.2985, lr: 0.00002, acc: 0.2492
+2025-01-05 00:31:58,766 - MyTrainer - INFO - epoch: 0, batch: 1150, loss: 0.3118, lr: 0.00002, acc: 0.2179
+2025-01-05 00:32:48,534 - MyTrainer - INFO - epoch: 0, batch: 1200, loss: 0.2307, lr: 0.00002, acc: 0.2365
+2025-01-05 00:33:38,301 - MyTrainer - INFO - epoch: 0, batch: 1250, loss: 0.2817, lr: 0.00002, acc: 0.2211
+2025-01-05 00:34:28,062 - MyTrainer - INFO - epoch: 0, batch: 1300, loss: 0.2701, lr: 0.00002, acc: 0.2082
+2025-01-05 00:35:17,820 - MyTrainer - INFO - epoch: 0, batch: 1350, loss: 0.2920, lr: 0.00002, acc: 0.2093
+2025-01-05 00:36:07,581 - MyTrainer - INFO - epoch: 0, batch: 1400, loss: 0.3775, lr: 0.00002, acc: 0.2105
+2025-01-05 00:37:32,160 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 12.0330, lr: 0.00001, acc: 0.0605
+2025-01-05 00:37:58,453 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 11.8296, lr: 0.00001, acc: 0.0579
+2025-01-05 00:38:21,917 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 12.0502, lr: 0.00001, acc: 0.0676
+2025-01-05 00:38:39,801 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 11.7637, lr: 0.00001, acc: 0.0654
+2025-01-05 00:39:43,208 - MyTrainer - INFO - epoch: 0, batch: 50, loss: 0.3730, lr: 0.00001, acc: 0.1457
+2025-01-05 00:40:46,810 - MyTrainer - INFO - epoch: 0, batch: 100, loss: 0.2655, lr: 0.00001, acc: 0.1833
+2025-01-05 00:41:50,523 - MyTrainer - INFO - epoch: 0, batch: 150, loss: 0.2553, lr: 0.00001, acc: 0.2016
+2025-01-05 00:42:54,381 - MyTrainer - INFO - epoch: 0, batch: 200, loss: 0.3252, lr: 0.00001, acc: 0.2228
+2025-01-05 00:43:58,247 - MyTrainer - INFO - epoch: 0, batch: 250, loss: 0.2595, lr: 0.00001, acc: 0.2283
+2025-01-05 00:45:02,141 - MyTrainer - INFO - epoch: 0, batch: 300, loss: 0.2602, lr: 0.00001, acc: 0.2151
+2025-01-05 00:46:06,048 - MyTrainer - INFO - epoch: 0, batch: 350, loss: 0.6882, lr: 0.00001, acc: 0.2036
+2025-01-05 00:47:09,969 - MyTrainer - INFO - epoch: 0, batch: 400, loss: 0.4062, lr: 0.00001, acc: 0.2383
+2025-01-05 00:48:13,908 - MyTrainer - INFO - epoch: 0, batch: 450, loss: 0.3301, lr: 0.00001, acc: 0.2341
+2025-01-05 00:49:17,848 - MyTrainer - INFO - epoch: 0, batch: 500, loss: 0.4672, lr: 0.00001, acc: 0.2196
+2025-01-05 00:50:21,806 - MyTrainer - INFO - epoch: 0, batch: 550, loss: 0.4210, lr: 0.00001, acc: 0.2227
+2025-01-05 00:51:25,766 - MyTrainer - INFO - epoch: 0, batch: 600, loss: 0.3232, lr: 0.00001, acc: 0.2197
+2025-01-05 00:52:29,732 - MyTrainer - INFO - epoch: 0, batch: 650, loss: 0.2309, lr: 0.00001, acc: 0.2273
+2025-01-05 00:53:33,689 - MyTrainer - INFO - epoch: 0, batch: 700, loss: 0.3489, lr: 0.00001, acc: 0.2203
+2025-01-05 00:54:37,656 - MyTrainer - INFO - epoch: 0, batch: 750, loss: 0.2802, lr: 0.00001, acc: 0.2341
+2025-01-05 00:55:41,623 - MyTrainer - INFO - epoch: 0, batch: 800, loss: 0.2829, lr: 0.00001, acc: 0.2245
+2025-01-05 00:56:45,586 - MyTrainer - INFO - epoch: 0, batch: 850, loss: 0.2819, lr: 0.00001, acc: 0.2236
+2025-01-05 00:57:49,548 - MyTrainer - INFO - epoch: 0, batch: 900, loss: 0.2561, lr: 0.00001, acc: 0.2437
+2025-01-05 00:58:53,517 - MyTrainer - INFO - epoch: 0, batch: 950, loss: 0.2191, lr: 0.00001, acc: 0.2164
+2025-01-05 00:59:57,494 - MyTrainer - INFO - epoch: 0, batch: 1000, loss: 0.2642, lr: 0.00001, acc: 0.2188
+2025-01-05 01:01:01,478 - MyTrainer - INFO - epoch: 0, batch: 1050, loss: 0.2673, lr: 0.00001, acc: 0.2294
+2025-01-05 01:02:05,467 - MyTrainer - INFO - epoch: 0, batch: 1100, loss: 0.2897, lr: 0.00001, acc: 0.2362
+2025-01-05 01:03:09,466 - MyTrainer - INFO - epoch: 0, batch: 1150, loss: 0.2736, lr: 0.00001, acc: 0.2116
+2025-01-05 01:04:13,454 - MyTrainer - INFO - epoch: 0, batch: 1200, loss: 0.2676, lr: 0.00001, acc: 0.2083
+2025-01-05 01:05:17,442 - MyTrainer - INFO - epoch: 0, batch: 1250, loss: 0.2736, lr: 0.00001, acc: 0.2310
+2025-01-05 01:06:21,425 - MyTrainer - INFO - epoch: 0, batch: 1300, loss: 0.2906, lr: 0.00001, acc: 0.2189
+2025-01-05 01:07:25,404 - MyTrainer - INFO - epoch: 0, batch: 1350, loss: 0.2456, lr: 0.00001, acc: 0.2292
+2025-01-05 01:08:29,390 - MyTrainer - INFO - epoch: 0, batch: 1400, loss: 0.3292, lr: 0.00001, acc: 0.2212
+2025-01-05 01:09:33,366 - MyTrainer - INFO - epoch: 0, batch: 1450, loss: 0.2796, lr: 0.00001, acc: 0.2372
+2025-01-05 01:10:37,344 - MyTrainer - INFO - epoch: 0, batch: 1500, loss: 0.2434, lr: 0.00001, acc: 0.2504
+2025-01-05 01:11:41,312 - MyTrainer - INFO - epoch: 0, batch: 1550, loss: 0.3000, lr: 0.00001, acc: 0.2278
+2025-01-05 01:12:45,281 - MyTrainer - INFO - epoch: 0, batch: 1600, loss: 0.2221, lr: 0.00001, acc: 0.2041
+2025-01-05 01:13:49,248 - MyTrainer - INFO - epoch: 0, batch: 1650, loss: 0.3103, lr: 0.00001, acc: 0.2374
+2025-01-05 01:14:53,240 - MyTrainer - INFO - epoch: 0, batch: 1700, loss: 0.3974, lr: 0.00001, acc: 0.2270
+2025-01-05 01:15:57,223 - MyTrainer - INFO - epoch: 0, batch: 1750, loss: 0.2705, lr: 0.00001, acc: 0.2291
+2025-01-05 01:17:01,216 - MyTrainer - INFO - epoch: 0, batch: 1800, loss: 0.3576, lr: 0.00001, acc: 0.2093
+2025-01-05 01:18:05,214 - MyTrainer - INFO - epoch: 0, batch: 1850, loss: 0.2648, lr: 0.00001, acc: 0.2217
+2025-01-05 01:19:09,204 - MyTrainer - INFO - epoch: 0, batch: 1900, loss: 0.2982, lr: 0.00001, acc: 0.2321
+2025-01-05 01:20:13,194 - MyTrainer - INFO - epoch: 0, batch: 1950, loss: 0.2711, lr: 0.00001, acc: 0.2386
+2025-01-05 01:21:17,173 - MyTrainer - INFO - epoch: 0, batch: 2000, loss: 0.2421, lr: 0.00001, acc: 0.2374
+2025-01-05 01:22:21,159 - MyTrainer - INFO - epoch: 0, batch: 2050, loss: 0.3482, lr: 0.00001, acc: 0.2465
+2025-01-05 01:23:23,802 - MyTrainer - INFO - epoch: 0, batch: 0, loss: 11.5884, lr: 0.01000, acc: 0.0800
+2025-01-05 01:24:27,026 - MyTrainer - INFO - epoch: 0, batch: 50, loss: 2.1204, lr: 0.00998, acc: 0.0000
+2025-01-05 01:25:30,351 - MyTrainer - INFO - epoch: 0, batch: 100, loss: 0.5632, lr: 0.00996, acc: 0.0646
+2025-01-05 01:26:33,800 - MyTrainer - INFO - epoch: 0, batch: 150, loss: 0.4574, lr: 0.00994, acc: 0.0560
+2025-01-05 01:27:37,365 - MyTrainer - INFO - epoch: 0, batch: 200, loss: 0.3734, lr: 0.00991, acc: 0.1018
+2025-01-05 01:28:40,901 - MyTrainer - INFO - epoch: 0, batch: 250, loss: 0.3164, lr: 0.00989, acc: 0.0930
+2025-01-05 01:29:44,449 - MyTrainer - INFO - epoch: 0, batch: 300, loss: 0.5187, lr: 0.00987, acc: 0.0820
+2025-01-05 01:30:47,969 - MyTrainer - INFO - epoch: 0, batch: 350, loss: 0.3985, lr: 0.00985, acc: 0.1013
+2025-01-05 01:31:51,493 - MyTrainer - INFO - epoch: 0, batch: 400, loss: 0.3777, lr: 0.00983, acc: 0.1156
+2025-01-05 01:32:55,006 - MyTrainer - INFO - epoch: 0, batch: 450, loss: 0.4314, lr: 0.00981, acc: 0.1134
+2025-01-05 01:33:58,544 - MyTrainer - INFO - epoch: 0, batch: 500, loss: 0.4436, lr: 0.00979, acc: 0.1094
