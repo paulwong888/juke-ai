@@ -7,7 +7,7 @@ def build_logger(name):
     logger.setLevel(logging.DEBUG)  # 设置日志级别
 
     # 创建一个文件处理器，并设置级别为DEBUG
-    file_handler = logging.FileHandler('app.log')
+    file_handler = logging.FileHandler('app.log', encoding="utf-8")
     # file_handler.setLevel(logging.DEBUG)
 
     # 创建一个控制台处理器，并设置级别为WARNING
@@ -15,7 +15,7 @@ def build_logger(name):
     # console_handler.setLevel(logging.WARNING)
 
     # 创建一个日志格式化器
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%Y-%d-%m %H:%M:%S')
 
     # 为文件处理器和控制台处理器设置格式化器
     file_handler.setFormatter(formatter)
