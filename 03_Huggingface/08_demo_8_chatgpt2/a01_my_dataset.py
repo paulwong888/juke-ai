@@ -1,5 +1,5 @@
 import torch
-from a00_constant import poems_file_path, models__uer__gpt2_chinese_cluecorpussmall
+from a00_constant import poems_file_path, models__uer__gpt2_chinese_cluecorpussmall, repoid_uer_gpt2_chinese_cluecorpussmall
 from torch.utils.data import Dataset, DataLoader
 from datasets import load_dataset
 from transformers import AutoTokenizer
@@ -10,7 +10,7 @@ class MyDataset(Dataset):
     def __init__(self):
         super(MyDataset, self).__init__()
         self.my_data_set = load_dataset("text", data_files=poems_file_path, split="train")
-        self.tokenizer = AutoTokenizer.from_pretrained(models__uer__gpt2_chinese_cluecorpussmall)
+        self.tokenizer = AutoTokenizer.from_pretrained(repoid_uer_gpt2_chinese_cluecorpussmall)
 
     def __len__(self):
         return len(self.my_data_set)

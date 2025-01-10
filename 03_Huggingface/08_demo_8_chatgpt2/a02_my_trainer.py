@@ -2,14 +2,14 @@ import sys
 sys.path.append(".")
 import torch
 from a00_my_logging import build_logger
-from a00_constant import batch_size, learning_rate, models__uer__gpt2_chinese_cluecorpussmall
+from a00_constant import batch_size, learning_rate, models__uer__gpt2_chinese_cluecorpussmall, repoid_uer_gpt2_chinese_cluecorpussmall
 from a01_my_dataset import MyDataset
 from a01_my_dataset import device
 from transformers import AutoModelForCausalLM, GPT2LMHeadModel
 from transformers.optimization import get_scheduler
 from torch.optim import AdamW
 
-model: GPT2LMHeadModel = AutoModelForCausalLM.from_pretrained(models__uer__gpt2_chinese_cluecorpussmall).to(device)
+model: GPT2LMHeadModel = AutoModelForCausalLM.from_pretrained(repoid_uer_gpt2_chinese_cluecorpussmall).to(device)
 
 class MyTrainer():
     def train(self):

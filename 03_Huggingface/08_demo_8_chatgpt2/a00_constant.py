@@ -6,6 +6,6 @@ fine_turn_uer_gpt2_chinese_cluecorpussmall = "03_Huggingface/08_demo_8_chatgpt2/
 
 poems_file_path = "03_Huggingface/data/chinese-poems/chinese_poems.txt"
 
-batch_size = 13
+batch_size = 8
 learning_rate = 1e-2
 max_length = 512
